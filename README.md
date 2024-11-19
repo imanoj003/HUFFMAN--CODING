@@ -1,4 +1,7 @@
-# EX-11 Huffman-Coding
+# Huffman-Coding
+
+### EXP : 11 
+### DATE : 07 / 11 / 24
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
